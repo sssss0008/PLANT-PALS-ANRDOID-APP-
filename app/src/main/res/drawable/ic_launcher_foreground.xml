@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Warm Sun Glow behind plant -->
+    <path
+        android:pathData="M54,42m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0"
+        android:fillColor="#FFF9C4" />
+
+    <!-- Flower Petals / Sprout crown -->
+    <path
+        android:pathData="M54,26 C57,32 63,33 63,38 C63,44 58,47 54,47 C50,47 45,44 45,38 C45,33 51,32 54,26 Z"
+        android:fillColor="#FFD54F" />
+    <path
+        android:pathData="M41,35 C46,38 48,43 45,47 C42,51 36,50 33,47 C30,44 32,38 41,35 Z"
+        android:fillColor="#FFE082" />
+    <path
+        android:pathData="M67,35 C59,38 57,43 60,47 C63,51 69,50 72,47 C75,44 73,38 67,35 Z"
+        android:fillColor="#FFE082" />
+
+    <!-- Cheerful Flower Center -->
+    <path
+        android:pathData="M54,41m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0"
+        android:fillColor="#FFA000" />
+    <!-- Happy Face on Flower -->
+    <path
+        android:pathData="M51,40m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"
+        android:fillColor="#3E2723" />
+    <path
+        android:pathData="M57,40m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0"
+        android:fillColor="#3E2723" />
+    <path
+        android:pathData="M52,43 Q54,45 56,43"
+        android:strokeColor="#3E2723"
+        android:strokeWidth="1"
+        android:strokeLineCap="round" />
+
+    <!-- Green Stem -->
+    <path
+        android:pathData="M54,48 L54,66"
+        android:strokeColor="#81C784"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Big Left Leaf -->
+    <path
+        android:pathData="M53,58 C45,55 37,58 38,65 C43,67 50,64 53,60 Z"
+        android:fillColor="#A5D6A7" />
+    <!-- Big Right Leaf -->
+    <path
+        android:pathData="M55,54 C63,51 71,53 70,60 C65,63 58,60 55,56 Z"
+        android:fillColor="#81C784" />
+
+    <!-- Cute Terracotta Pot -->
+    <!-- Rim -->
+    <path
+        android:pathData="M39,66 L69,66 L68,70 L40,70 Z"
+        android:fillColor="#FF8A65" />
+    <!-- Body -->
+    <path
+        android:pathData="M41,70 L67,70 L64,84 L44,84 Z"
+        android:fillColor="#FF7043" />
+    <!-- Pot Rim Highlight -->
+    <path
+        android:pathData="M43,67 L65,67"
+        android:strokeColor="#FFAB91"
+        android:strokeWidth="1"
+        android:strokeLineCap="round" />
+    <!-- Pot Cute Little Smiley Heart -->
+    <path
+        android:pathData="M54,77m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"
+        android:fillColor="#FFF" />
+</vector>
